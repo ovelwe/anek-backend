@@ -1,2 +1,12 @@
-# anek-backend
-Backend for anek-app
+# Для чего проект
+Простой бэкенд для сайта с анекдотами на каждый день, где каждый может оставить свой анекдот
+
+# Используемые технологии
+1. **Python 3.11**
+2. **Flask**
+3. **SQLAlchemy**
+4. **и др.**
+
+# Как запустить?
+pip install -r requirements.txt
+python app.py
